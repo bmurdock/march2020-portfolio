@@ -4,3 +4,15 @@ body {
     padding: 0;
     color: #000;
 }
+
+main {
+    padding: 1em;
+}
+
+header {
+    border-bottom: 1px solid #000;
+}
+
+footer {
+    border-top: 1px solid #000;
+}
