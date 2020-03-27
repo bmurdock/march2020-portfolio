@@ -23,12 +23,7 @@ main {
 header {
     border-bottom: 1px solid #000;
     height: 10vh;
-    background: linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 173, 1) 100%);
     text-align: right;
-}
-
-header>h1 {
-    color: #fff;
 }
 
 footer {
