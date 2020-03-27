@@ -17,14 +17,17 @@ main {
     flex-grow: 1;
     height: 80vh;
     overflow: auto;
+    box-sizing: border-box;
 }
 
 header {
     border-bottom: 1px solid #000;
     height: 10vh;
+    box-sizing: border-box;
 }
 
 footer {
     border-top: 1px solid #000;
     height: 10vh;
+    box-sizing: border-box;
 }
