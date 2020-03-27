@@ -24,7 +24,11 @@ main {
 header {
     border-bottom: 1px solid #000;
     height: 10vh;
-    text-align: center;
+}
+
+h1 {
+    width: auto;
+    margin: auto;
 }
 
 footer {
