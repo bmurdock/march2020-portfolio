@@ -15,8 +15,10 @@ main {
 
 header {
     border-bottom: 1px solid #000;
+    height: 10vh;
 }
 
 footer {
     border-top: 1px solid #000;
+    height: 10vh;
 }
