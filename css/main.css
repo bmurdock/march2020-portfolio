@@ -31,3 +31,7 @@ footer {
     height: 10vh;
 
 }
+
+.logo {
+    max-width: 200px;
+}
