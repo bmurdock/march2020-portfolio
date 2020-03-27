@@ -11,6 +11,8 @@ body {
 main {
     padding: 1em;
     flex-grow: 1;
+    height: 80vh;
+    overflow: auto;
 }
 
 header {
