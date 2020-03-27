@@ -23,7 +23,6 @@ main {
 header {
     border-bottom: 1px solid #000;
     height: 10vh;
-    text-align: right;
 }
 
 footer {
@@ -34,4 +33,5 @@ footer {
 
 .logo {
     max-width: 200px;
+    float: right;
 }
