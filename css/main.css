@@ -10,6 +10,7 @@ h4 {
     background: #fff;
     display: flex;
     flex-flow: column;
+    box-sizing: border-box;
 }
 
 main {
@@ -23,6 +24,7 @@ main {
 header {
     border-bottom: 1px solid #000;
     height: 10vh;
+    text-align: center;
 }
 
 footer {
@@ -34,4 +36,5 @@ footer {
 .logo {
     max-width: 200px;
     float: right;
+    clear: both;
 }
